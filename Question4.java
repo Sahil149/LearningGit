@@ -6,7 +6,7 @@ public class Question4 {
                 sum = sum + i;
             }
         }
-	System.out.println("Sum of all integers greater than 40 and less than 250 divisible by 5 is: " + sum);
+	System.out.println("Sum of all integers greater than 40 and less than 250 divisible by 5 is : " + sum);
     }
 
 }
